@@ -1,0 +1,23 @@
+sites/default/files
+sites/all/themes/lexus/video
+*.swp
+# Logs and databases #
+*.log
+*.sql
+*.sqlite
+
+# Packages #
+*.iso
+*.dmg
+*.pkg
+
+# Compiled source #
+*.dll
+*.o
+*.ext
+*.so
+
+# OS generated files # 
+.DS_Store
+.DS_Store?
+Thumbs.db

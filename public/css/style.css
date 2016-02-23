@@ -1,0 +1,64 @@
+.navbar-default .navbar-nav>li>a{
+    color:#fff;
+}
+a{
+    color:#4990BD;
+}
+.art_line a{
+    color:#333;
+}
+.art_line .blue a{
+    color:blue;
+}
+.art_line .red a{
+    color:red;
+}
+a:hover, a:focus{
+    text-decoration:none;
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+.navbar-default .logo{
+    margin: auto 0;
+    margin-top:5px;
+}
+.navbar-nav>li>a{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.mt-7{
+    margin-top:7px;
+}
+.mt-11{
+    margin-top:11px;
+}
+.mt-20{
+    margin-top:20px;
+}
+.pdl-20{
+    padding-left:20px;
+}
+.bgc-white{
+    background-color:#fff;
+}
+.body .pd0{
+    padding:0px;
+}
+.inline li{
+    list-style-type:none;
+    white-space: nowrap;
+}
+.container-fluid{
+    padding:0px;
+}
+.list-group-item{
+    padding:2.5px 5px;
+    font-size:12px;
+}
+.btm{
+    font-size:12px;
+}
